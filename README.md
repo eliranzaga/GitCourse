@@ -1,2 +1,0 @@
-# GitCourse
-eliram@ununtu
